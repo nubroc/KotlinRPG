@@ -1,3 +1,4 @@
+```
 Début : Tu te réveilles au pied des marches du Sanctuaire.
 │
 ├── [1] Monter les premières marches
@@ -70,3 +71,4 @@ Fin du sanctuaire :
         ├── Seiya seul → échec ou sacrifice héroïque
         ├── Avec armure + objets + alliés → victoire, Saori sauvée
         └── Tous les bronzes réunis → Fin parfaite
+```
